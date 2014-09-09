@@ -1,0 +1,4 @@
+C:\Users\eahscs\Documents\GitHub\Decimals\Decimals\Decimals\bin\Debug\Decimals.exe
+C:\Users\eahscs\Documents\GitHub\Decimals\Decimals\Decimals\bin\Debug\Decimals.pdb
+C:\Users\eahscs\Documents\GitHub\Decimals\Decimals\Decimals\obj\x86\Debug\Decimals.exe
+C:\Users\eahscs\Documents\GitHub\Decimals\Decimals\Decimals\obj\x86\Debug\Decimals.pdb
