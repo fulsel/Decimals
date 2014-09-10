@@ -9,6 +9,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carpet", "Carpet\Carpet.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yards", "Yards\Yards.csproj", "{7D1F864A-7309-4C55-8620-5825EB52D3C7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoursAndMinutes", "HoursAndMinutes\HoursAndMinutes.csproj", "{1889194F-F1F1-413F-9E31-E8461E8F0795}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eggs", "Eggs\Eggs.csproj", "{9C7A0B64-0355-43B3-8BDD-C1B0D998604E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Payroll", "Payroll\Payroll.csproj", "{86D41D37-4085-4C24-B4D0-B0F288894B97}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -31,6 +37,18 @@ Global
 		{7D1F864A-7309-4C55-8620-5825EB52D3C7}.Debug|x86.Build.0 = Debug|x86
 		{7D1F864A-7309-4C55-8620-5825EB52D3C7}.Release|x86.ActiveCfg = Release|x86
 		{7D1F864A-7309-4C55-8620-5825EB52D3C7}.Release|x86.Build.0 = Release|x86
+		{1889194F-F1F1-413F-9E31-E8461E8F0795}.Debug|x86.ActiveCfg = Debug|x86
+		{1889194F-F1F1-413F-9E31-E8461E8F0795}.Debug|x86.Build.0 = Debug|x86
+		{1889194F-F1F1-413F-9E31-E8461E8F0795}.Release|x86.ActiveCfg = Release|x86
+		{1889194F-F1F1-413F-9E31-E8461E8F0795}.Release|x86.Build.0 = Release|x86
+		{9C7A0B64-0355-43B3-8BDD-C1B0D998604E}.Debug|x86.ActiveCfg = Debug|x86
+		{9C7A0B64-0355-43B3-8BDD-C1B0D998604E}.Debug|x86.Build.0 = Debug|x86
+		{9C7A0B64-0355-43B3-8BDD-C1B0D998604E}.Release|x86.ActiveCfg = Release|x86
+		{9C7A0B64-0355-43B3-8BDD-C1B0D998604E}.Release|x86.Build.0 = Release|x86
+		{86D41D37-4085-4C24-B4D0-B0F288894B97}.Debug|x86.ActiveCfg = Debug|x86
+		{86D41D37-4085-4C24-B4D0-B0F288894B97}.Debug|x86.Build.0 = Debug|x86
+		{86D41D37-4085-4C24-B4D0-B0F288894B97}.Release|x86.ActiveCfg = Release|x86
+		{86D41D37-4085-4C24-B4D0-B0F288894B97}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
